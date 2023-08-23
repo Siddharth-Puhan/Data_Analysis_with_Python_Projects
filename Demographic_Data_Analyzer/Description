@@ -1,4 +1,6 @@
-In this challenge, you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
+Analyzed a dataset extracted from the 1994 Census database using Pandas in Python. Addressed key questions related to demographic data, including race representation, average age of men, education
+levels, income distribution, and working hours. Utilized Pandas functionalities to extract insights and answer these questions accurately. The project's code and results can be found in 
+demographic_data_analyzer.py. Data sourced from UCI Machine Learning Repository.
 
 |    |   age | workclass        |   fnlwgt | education   |   education-num | marital-status     | occupation        | relationship   | race   | sex    |   capital-gain |   capital-loss |   hours-per-week | native-country   | salary   |
 |---:|------:|:-----------------|---------:|:------------|----------------:|:-------------------|:------------------|:---------------|:-------|:-------|---------------:|---------------:|-----------------:|:-----------------|:---------|
